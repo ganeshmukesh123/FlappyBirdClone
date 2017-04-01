@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADMIN\AndroidStudioProjects\bird\android\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a9d3991f03deab3aa96478dc2f18b635ae2435e5">
+        <dex dex="C:\Users\ADMIN\AndroidStudioProjects\bird\android\build\intermediates\pre-dexed\debug\instant-run-bootstrap_23fd50473870a4b898bb7d817df00767164b7ee9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADMIN\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-backend-android\1.9.6\57c2831c870743712b808384187ea856e541878f\gdx-backend-android-1.9.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="57c2831c870743712b808384187ea856e541878f">
+        <dex dex="C:\Users\ADMIN\AndroidStudioProjects\bird\android\build\intermediates\pre-dexed\debug\gdx-backend-android-1.9.6_07de61d537d83a049a2ae316df804a9cb68e0c73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADMIN\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx\1.9.6\47d1e9b890e364ec28f128e9bb3b9a12a94c164\gdx-1.9.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="047d1e9b890e364ec28f128e9bb3b9a12a94c164">
+        <dex dex="C:\Users\ADMIN\AndroidStudioProjects\bird\android\build\intermediates\pre-dexed\debug\gdx-1.9.6_b26573a3255f4f18e981f42d8490a0c3d6edcf0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADMIN\AndroidStudioProjects\bird\android\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d313c8b38f5ddc6e7c0200c59b16774a1417dc79">
+        <dex dex="C:\Users\ADMIN\AndroidStudioProjects\bird\android\build\intermediates\pre-dexed\debug\instant-run_3b18695ee21e42caf05b9877f3aadfa2ee2d78b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADMIN\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-box2d\1.9.6\c249ef4060a4fada952f278455c8f7b9cba3c18a\gdx-box2d-1.9.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c249ef4060a4fada952f278455c8f7b9cba3c18a">
+        <dex dex="C:\Users\ADMIN\AndroidStudioProjects\bird\android\build\intermediates\pre-dexed\debug\gdx-box2d-1.9.6_c96b3acea4f86bdfb5c511eb787c545f53db8515.jar" />
+    </item>
+
+</items>

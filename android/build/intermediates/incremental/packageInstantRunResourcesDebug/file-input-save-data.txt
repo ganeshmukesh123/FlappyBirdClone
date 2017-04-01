@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Sat Apr 01 15:49:15 IST 2017
+1.base=C\:\\Users\\ADMIN\\AndroidStudioProjects\\bird\\android\\build\\intermediates\\assets\\debug
+1.file=C\:\\Users\\ADMIN\\AndroidStudioProjects\\bird\\android\\build\\intermediates\\assets\\debug\\badlogic.jpg
+2.base=C\:\\Users\\ADMIN\\AndroidStudioProjects\\bird\\android\\build\\intermediates\\res\\resources-debug.ap_
+3.set=ANDROID_RESOURCE
+2.set=ANDROID_RESOURCE
+2.file=C\:\\Users\\ADMIN\\AndroidStudioProjects\\bird\\android\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+count=4
+1.set=ASSET
+3.base=C\:\\Users\\ADMIN\\AndroidStudioProjects\\bird\\android\\build\\intermediates\\res\\resources-debug.ap_
+0.set=ANDROID_RESOURCE
+0.base=C\:\\Users\\ADMIN\\AndroidStudioProjects\\bird\\android\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\ADMIN\\AndroidStudioProjects\\bird\\android\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\ic_launcher.png
+0.file=C\:\\Users\\ADMIN\\AndroidStudioProjects\\bird\\android\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
